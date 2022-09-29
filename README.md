@@ -1,3 +1,3 @@
-Hey,I have made this mini youtube with the help of react
+Hey,I have made this mini imovie with the help of react
 
 
