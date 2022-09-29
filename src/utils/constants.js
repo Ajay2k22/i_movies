@@ -12,7 +12,7 @@ import TheaterComedyIcon from '@mui/icons-material/TheaterComedy';
 import FitnessCenterIcon from '@mui/icons-material/FitnessCenter';
 import DeveloperModeIcon from '@mui/icons-material/DeveloperMode';
 
-export const logo = 'https://i.ibb.co/s9Qys2j/logo.png';
+export const logo = 'https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.loginradius.com%2Fblog%2Fengineering%2Flazy-loading-in-react%2F&psig=AOvVaw2vdXqiB4Sk6MT_8Lie-L2m&ust=1664560023576000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPDH17fHuvoCFQAAAAAdAAAAABAW';
 
 export const categories = [
   { name: 'New', icon: <HomeIcon />, },
